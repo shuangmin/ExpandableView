@@ -1,0 +1,8 @@
+<resources>
+ <style name="AppBaseTheme" parent="android:Theme.Light"></style>
+ <style name="AppTheme" parent="AppBaseTheme"></style>
+     <style name="PopupWindowAnimation">
+        <item name="android:windowEnterAnimation">@anim/popshow_anim</item>
+        <item name="android:windowExitAnimation">@anim/pophidden_anim</item>
+    </style>
+</resources>
